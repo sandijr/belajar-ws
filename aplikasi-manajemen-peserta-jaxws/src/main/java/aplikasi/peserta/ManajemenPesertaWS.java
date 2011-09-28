@@ -14,7 +14,7 @@ import javax.jws.WebParam;
 
 /**
  *
- * @author brainmatics
+ * @author Ngetest Cuy
  */
 @WebService(serviceName = "ManajemenPesertaWS")
 public class ManajemenPesertaWS {
